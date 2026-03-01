@@ -68,7 +68,6 @@ INSERT INTO Livres (titre, auteur, genre, prix, annee_publication, stock, dispon
 
 *   Pour chaque exercice, écrivez une requête `SELECT` qui répond à la question posée.
 *   N'hésitez pas à expérimenter et à tester différentes approches.
-*   L'utilisation d'outils d'IA est permise pour vous aider à formuler vos requêtes. L'objectif est que vous soyez capable d'expliquer et de justifier chaque partie de votre solution, et de comprendre le *pourquoi* de chaque clause.
 *   Vérifiez toujours vos résultats par rapport aux données initiales pour vous assurer qu'ils sont corrects.
 
 ---

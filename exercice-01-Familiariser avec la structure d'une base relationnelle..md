@@ -94,15 +94,5 @@ Pour chaque question, justifiez brièvement vos réponses.
 5.  **Scénario d'Interrogation (Réflexion) :**
     *   Imaginez que vous souhaitez récupérer tous les livres commandés par un client spécifique. Quelles tables devriez-vous utiliser et comment les lieriez-vous logiquement ? (Pas de code SQL attendu, juste une explication des étapes et des tables/clés impliquées).
 
----
-
-**Conseils pour l'utilisation de l'IA :**
-
-*   **Définitions :** Si un terme comme "clé primaire" ou "clé étrangère" n'est pas clair, demandez à l'IA une définition simple et un exemple.
-*   **Vérification :** Une fois que vous avez identifié les clés, vous pouvez demander à l'IA : "Dans ce schéma [collez le schéma], est-ce que `id_livre` dans `Livres` est bien une clé primaire ? Pourquoi ?"
-*   **Clarification des relations :** Si vous avez du mal à formuler la relation entre deux tables, demandez à l'IA de vous donner des exemples de phrases pour décrire une relation de clé étrangère.
-*   **Soyez précis :** Plus votre question à l'IA est précise, plus sa réponse sera pertinente.
-
----
 
 Bon courage pour ce TP ! N'hésitez pas à explorer et à poser des questions si des points restent flous. C'est en manipulant ces concepts que vous les maîtriserez le mieux.

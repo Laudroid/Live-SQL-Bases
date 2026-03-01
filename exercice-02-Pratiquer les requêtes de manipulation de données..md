@@ -4,7 +4,7 @@ Ce TP est conçu pour vous permettre de pratiquer les requêtes de manipulation 
 
 ---
 
-### **TP : Maîtrise des Requêtes DML (SELECT, INSERT, UPDATE, DELETE)**
+### **TP : Maîtrise des Requêtes CRUD (SELECT, INSERT, UPDATE, DELETE)**
 
 **Objectif :** Pratiquer les requêtes `SELECT`, `INSERT`, `UPDATE` et `DELETE` pour manipuler des données dans une base de données relationnelle.
 
@@ -105,12 +105,6 @@ Supprimez les données suivantes de votre base :
 1.  Supprimez le livre 'Le Crime de l\'Orient-Express' de la base de données.
 2.  Supprimez le livre 'Le Seigneur des Anneaux' que vous avez ajouté précédemment.
 3.  Supprimez l'auteur 'Antoine de Saint-Exupéry' (assurez-vous d'abord que tous ses livres ont été supprimés ou que la contrainte de clé étrangère le permet, sinon vous pourriez rencontrer une erreur).
-
----
-
-### **Considérations sur l'IA**
-
-L'IA est un outil puissant. N'hésitez pas à l'utiliser pour vous aider à trouver la syntaxe, à explorer des pistes ou à vérifier vos requêtes. Cependant, l'objectif principal de ce TP est votre *compréhension* des concepts. Assurez-vous de comprendre chaque partie de la requête générée et d'être capable de l'expliquer. Ne vous contentez pas de copier-coller : utilisez l'IA comme un assistant, pas comme un substitut à votre apprentissage.
 
 ---
 

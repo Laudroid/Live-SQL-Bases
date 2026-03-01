@@ -1,8 +1,4 @@
-Absolument ! Voici une proposition de sujet de TP, pragmatique et orientée vers l'apprentissage actif, tout en tenant compte de l'usage de l'IA.
-
----
-
-## TP : Maîtrise des Clés Primaires et Étrangères avec PostgreSQL
+# TP : Maîtrise des Clés Primaires et Étrangères avec PostgreSQL
 
 ### Objectif du TP
 

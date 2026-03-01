@@ -1,4 +1,4 @@
-Absolument ! Voici un sujet de TP conçu pour les apprenants, en tenant compte de l'utilisation de l'IA comme un outil d'apprentissage.
+Voici un sujet de TP conçu pour les apprenants, en tenant compte de l'utilisation de l'IA comme un outil d'apprentissage.
 
 ---
 

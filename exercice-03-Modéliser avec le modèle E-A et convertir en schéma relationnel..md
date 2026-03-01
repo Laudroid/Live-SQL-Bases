@@ -56,8 +56,6 @@ Une fois votre modèle E-A établi, convertissez-le en un schéma relationnel.
     *   Rédigez le script SQL (Data Definition Language) complet pour créer ces tables.
     *   Assurez-vous que les clés primaires et étrangères sont correctement définies dans le script.
 
-**Conseil :** Vous pouvez également solliciter l'IA pour générer le script SQL de création des tables. Cependant, votre rôle est de **vérifier, comprendre et justifier chaque ligne** du script. C'est en comprenant la logique derrière chaque instruction que vous maîtriserez la conversion.
-
 ---
 
 **Livrables attendus :**
@@ -74,4 +72,3 @@ Une fois votre modèle E-A établi, convertissez-le en un schéma relationnel.
 *   **Cohérence :** Assurez-vous que votre schéma relationnel découle logiquement de votre modèle E-A.
 *   **Précision :** Soyez précis sur les types de données et les contraintes (clés primaires/étrangères).
 
-Bon travail ! L'IA est un excellent assistant, mais votre compréhension et votre capacité à justifier vos choix sont la clé de la réussite dans ce domaine.
